@@ -1,0 +1,38 @@
+
+
+
+* {
+   color: white;
+   font-size: 30px ;
+   text-align: center;
+   margin: 0;
+   position: relative;
+}
+
+body{
+   background-repeat: no-repeat;  
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin: 0;
+   height: 100vh
+
+}
+
+#Nombre{
+   font-family: 'Permanent Marker', cursive;
+   top: 70px
+}
+
+#Ciudad{
+   font-family: 'Shadows Into Light', cursive;
+   top: 70px
+}
+
+#Image{
+	 border-radius: 100%;
+	 border:5px solid white;*/
+	 height: 250px;
+	 width: 250px;
+	 top: 70px
+}
+
